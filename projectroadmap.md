@@ -1,1 +1,9 @@
-
+- [x] Create README File DONE
+- [x] Create Projectroadmap DONE
+- [ ] Upload code from Rock-Paper-Scissor-Code
+- [ ] Clonefiles to GitHub Desktop
+- [ ] Run Code and analyze problems under 'problems' tab
+- [ ] Work on each problem to find solutions
+- [ ] Make notes of changes that are successful and unsuccessful
+- [ ] Create Powerpoint slide for presentation
+- [ ] Present Final Presenation
