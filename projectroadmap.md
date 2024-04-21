@@ -1,6 +1,6 @@
 - [x] Create README File DONE
 - [x] Create Projectroadmap DONE
-- [ ] Upload code from Rock-Paper-Scissor-Code
+- [x] Upload code from Rock-Paper-Scissor-Code
 - [ ] Clonefiles to GitHub Desktop
 - [ ] Run Code and analyze problems under 'problems' tab
 - [ ] Work on each problem to find solutions
