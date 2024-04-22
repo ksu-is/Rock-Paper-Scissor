@@ -2,7 +2,7 @@
 - [x] Create Projectroadmap DONE
 - [x] Upload code from Rock-Paper-Scissor-Code
 - [x] Clonefiles to GitHub Desktop
-- [ ] Run Code and analyze problems under 'problems' tab
+- [x] Run Code and analyze problems under 'problems' tab
 - [ ] Work on each problem to find solutions
 - [ ] Make notes of changes that are successful and unsuccessful
 - [ ] Create Powerpoint slide for presentation
