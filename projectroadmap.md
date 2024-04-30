@@ -3,7 +3,7 @@
 - [x] Upload code from Rock-Paper-Scissor-Code
 - [x] Clonefiles to GitHub Desktop
 - [x] Run Code and analyze problems under 'problems' tab
-- [ ] Work on each problem to find solutions
-- [ ] Make notes of changes that are successful and unsuccessful
-- [ ] Create Powerpoint slide for presentation
-- [ ] Present Final Presenation
+- [x] Work on each problem to find solutions
+- [x] Make notes of changes that are successful and unsuccessful
+- [x] Create Powerpoint slide for presentation
+- [x] Present Final Presenation
